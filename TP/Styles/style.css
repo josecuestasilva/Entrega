@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Display:wght@300&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap');
+
+
+
+h5 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 200;
+    color: blue;
+}
+h1{
+    font-family: 'Noto Serif Display', serif;
+    font-weight: 300;
+    color: blue;
+    font-size: 5.5em;
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 200;
+    color: blue;
+    font-size: 3em;
+}
+
+button:nth-of-type(1){
+    border-radius: 5px/5px;
+    background-color: blue;
+    color: white;
+    border: none;
+
+    
+}
+
+section:nth-of-type(4){
+    background-color: blue;
+}
+
+h3 {
+    font-family: 'Noto Serif Display', serif;
+    font-weight: 300;
+    color: blue;
+}
+
+p {
+    font-family: 'Noto Serif Display', serif;
+    font-weight: 300;
+    color: black;
+}
+
+h4 {
+    font-family: 'Noto Serif Display', serif;
+    font-weight: 300;
+    color: white
+}
+
+
+
+
+
